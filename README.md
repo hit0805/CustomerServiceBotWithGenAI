@@ -14,18 +14,18 @@ The project focuses on designing and implementing an AI-powered chatbot that sup
 - Project Introduction
 The integration of AI in the e-commerce sector has revolutionized customer interactions and significantly enhanced user experience. This project aims to develop a generative AI-powered chatbot to facilitate users' product inquiries, improve response times, and optimize customer service operations. The chatbot will provide real-time assistance, leading to a superior shopping experience and a more efficient platform for both users and sellers.
 
-- Hardware: 
-I3/Intel Processor
-8 GB RAM
-1TB Hard Disk.
+- Hardware 
+> I3/Intel Processor
+> 8 GB RAM
+> 1TB Hard Disk.
 
-- Software:
-Operating System: Windows 10.
-Java Development Kit: Java.
-Plugin: Kotlin.
-Software Development Kit: Android.
-IDE: Android Studio.
-Database: MySQL with PHP.
+- Software
+> Operating System: Windows 10.
+> Java Development Kit: Java.
+> Plugin: Kotlin.
+> Software Development Kit: Android.
+> IDE: Android Studio.
+> Database: MySQL with PHP.
 
 - SCREENSHOTS
   ![image](https://github.com/user-attachments/assets/a68fbd00-aeff-4d51-a3a8-5633a072f3a3)
